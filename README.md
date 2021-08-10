@@ -1,5 +1,5 @@
 # Android-fragments
-Fragments implimentation using java in android  
+Fragments implementation using java in android  
 
 Fragments are nicely handled for landscape and portrait mode.  
 
